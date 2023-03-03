@@ -1,47 +1,5 @@
-@font-face {
-    font-family: 'Helvetica Now Medium';
-    src: url(/fonts/HelveticaNow/HelveticaNowDisplay-Medium.ttf);
-    
-}
+@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&family=Fredoka:wght@300;400&family=Hahmlet:wght@200;300;400&family=Lora:wght@400;500&family=Lustria&family=Nanum+Myeongjo:wght@400;700&family=Orbitron&family=Poppins:wght@200;300;400;600;700&family=Quicksand:wght@300;400;500;600;700&family=Raleway:wght@100;300;400;500;600&family=Roboto:wght@300&family=Varela+Round&display=swap');
 
-@font-face {
-    font-family: 'Helvetica Now Regular';
-    src: url(/fonts/HelveticaNow/HelveticaNowDisplay-Regular.ttf);
-
-}
-
-@font-face {
-    font-family: 'Helvetica Now Thin';
-    src: url(/fonts/HelveticaNow/HelveticaNowDisplay-Thin.ttf);
-}
-
-@font-face {
-    font-family: 'General Sans Bold';
-    src: url(/fonts/GeneralSans/GeneralSans-Bold.otf);
-}
-
-@font-face {
-    font-family: 'General Sans Medium';
-    src: url(/fonts/GeneralSans/GeneralSans-Medium.otf);
-}
-
-@font-face {
-    font-family: 'General Sans Medium Italic';
-    src: url(/fonts/GeneralSans/GeneralSans-MediumItalic.otf);
-}
-
-@font-face {
-    font-family: 'General Sans Medium 2';
-    src: url(/fonts/GeneralSans2/GeneralSans-Medium.woff);
-
-}
-
-@font-face {
-    font-family: 'General Sans Bold 2';
-    src: url(/fonts/GeneralSans2/GeneralSans-Bold.woff);
-}
-
-@import url('https://fonts.cdnfonts.com/css/general-sans');
 
 
 
@@ -86,14 +44,16 @@ main .description .left-section h1 {
 }
 
 main .description .left-section  p {
-    font-family: 'Helvetica Now Thin';
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
     font-size: 18px;
     line-height: 30px;
     max-width: 700px;
 }
 
 main .description .left-section p span {
-    font-family: 'Helvetica Now Regular';
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
 }
 
 main .description .right-section img {
@@ -123,7 +83,8 @@ main .grid #grid-container .headline-container .grid-headline {
     margin-bottom: 10px;
     z-index: 1;
     margin-right: 10px;
-    font-family: 'Helvetica Now Medium';
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
     font-size: 17px;
   }
 main .grid #grid-container .headline-container .fa-solid {
@@ -135,7 +96,8 @@ main .grid #grid-container .headline-container .fa-regular {
 main .grid #grid-container .grid-text {
     line-height: 25px;
     font-size: 14px;
-    font-family: 'Helvetica Now Thin';
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
   }
 main .grid #grid-container .grid-column {
     display: flex;
@@ -143,11 +105,13 @@ main .grid #grid-container .grid-column {
   }
 main .grid #grid-container ul {
     padding-left: 13px;
-    font-family: 'Helvetica Now Thin';
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
   }
 main .grid #grid-container ol {
     padding-left: 13px;
-    font-family: 'Helvetica Now Thin';
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
     font-size: 14px;
   }
 main .grid #grid-container #grid-item-1 {
