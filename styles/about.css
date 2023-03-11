@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&family=Fredoka:wght@300;400&family=Hahmlet:wght@200;300;400&family=Lora:wght@400;500&family=Lustria&family=Nanum+Myeongjo:wght@400;700&family=Orbitron&family=Poppins:wght@200;300;400;600;700&family=Quicksand:wght@300;400;500;600;700&family=Raleway:wght@100;300;400;500;600&family=Roboto:wght@300&family=Varela+Round&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&family=Fredoka:wght@300;400&family=Hahmlet:wght@200;300;400&family=Lora:wght@400;500&family=Lustria&family=Nanum+Myeongjo:wght@400;700&family=Orbitron&family=Poppins:wght@200;300;400;600;700&family=Quicksand:wght@300;400;500;600;700&family=Raleway:wght@100;300;400;500;600&family=Roboto:wght@100;300;400&family=Tilt+Warp&family=Varela+Round&display=swap');
 
 
 * {
@@ -38,22 +36,23 @@ main .description {
 }
 
 main .description .left-section h1 {
-    font-family: 'General Sans Bold 2';
+    font-family: 'Tilt Warp', cursive;
+    font-weight: 400;
     font-size: 50px;
     margin-bottom: 50px;
 }
 
 main .description .left-section  p {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 18px;
     line-height: 30px;
     max-width: 700px;
 }
 
 main .description .left-section p span {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
 }
 
 main .description .right-section img {
@@ -83,8 +82,8 @@ main .grid #grid-container .headline-container .grid-headline {
     margin-bottom: 10px;
     z-index: 1;
     margin-right: 10px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 17px;
   }
 main .grid #grid-container .headline-container .fa-solid {
@@ -96,8 +95,8 @@ main .grid #grid-container .headline-container .fa-regular {
 main .grid #grid-container .grid-text {
     line-height: 25px;
     font-size: 14px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
   }
 main .grid #grid-container .grid-column {
     display: flex;
@@ -105,13 +104,13 @@ main .grid #grid-container .grid-column {
   }
 main .grid #grid-container ul {
     padding-left: 13px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
   }
 main .grid #grid-container ol {
     padding-left: 13px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 14px;
   }
 main .grid #grid-container #grid-item-1 {
